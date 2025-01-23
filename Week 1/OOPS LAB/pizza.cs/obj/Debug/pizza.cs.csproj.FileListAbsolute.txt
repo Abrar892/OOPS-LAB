@@ -1,0 +1,7 @@
+D:\study\2024-CS-59\2nd semester\Week 1\OOPS LAB\pizza.cs\bin\Debug\pizza.cs.exe.config
+D:\study\2024-CS-59\2nd semester\Week 1\OOPS LAB\pizza.cs\bin\Debug\pizza.cs.exe
+D:\study\2024-CS-59\2nd semester\Week 1\OOPS LAB\pizza.cs\bin\Debug\pizza.cs.pdb
+D:\study\2024-CS-59\2nd semester\Week 1\OOPS LAB\pizza.cs\obj\Debug\pizza.cs.csproj.AssemblyReference.cache
+D:\study\2024-CS-59\2nd semester\Week 1\OOPS LAB\pizza.cs\obj\Debug\pizza.cs.csproj.CoreCompileInputs.cache
+D:\study\2024-CS-59\2nd semester\Week 1\OOPS LAB\pizza.cs\obj\Debug\pizza.cs.exe
+D:\study\2024-CS-59\2nd semester\Week 1\OOPS LAB\pizza.cs\obj\Debug\pizza.cs.pdb
