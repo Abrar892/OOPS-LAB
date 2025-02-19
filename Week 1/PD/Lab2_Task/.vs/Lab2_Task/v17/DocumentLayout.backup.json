@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\study\\2024-CS-59\\2nd semester\\Week 1\\PD\\Lab2_Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45D1E640-CE19-4FB7-B330-D9F2377B90AE}|Lab2_Task.csproj|d:\\study\\2024-cs-59\\2nd semester\\week 1\\pd\\lab2_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D1E640-CE19-4FB7-B330-D9F2377B90AE}|Lab2_Task.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D1E640-CE19-4FB7-B330-D9F2377B90AE}|Lab2_Task.csproj|D:\\study\\2024-CS-59\\2nd semester\\Week 1\\PD\\Lab2_Task\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D1E640-CE19-4FB7-B330-D9F2377B90AE}|Lab2_Task.csproj|solutionrelative:attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D1E640-CE19-4FB7-B330-D9F2377B90AE}|Lab2_Task.csproj|D:\\study\\2024-CS-59\\2nd semester\\Week 1\\PD\\Lab2_Task\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D1E640-CE19-4FB7-B330-D9F2377B90AE}|Lab2_Task.csproj|solutionrelative:courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D1E640-CE19-4FB7-B330-D9F2377B90AE}|Lab2_Task.csproj|D:\\study\\2024-CS-59\\2nd semester\\Week 1\\PD\\Lab2_Task\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D1E640-CE19-4FB7-B330-D9F2377B90AE}|Lab2_Task.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D1E640-CE19-4FB7-B330-D9F2377B90AE}|Lab2_Task.csproj|D:\\study\\2024-CS-59\\2nd semester\\Week 1\\PD\\Lab2_Task\\enrollments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D1E640-CE19-4FB7-B330-D9F2377B90AE}|Lab2_Task.csproj|solutionrelative:enrollments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D1E640-CE19-4FB7-B330-D9F2377B90AE}|Lab2_Task.csproj|D:\\study\\2024-CS-59\\2nd semester\\Week 1\\PD\\Lab2_Task\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D1E640-CE19-4FB7-B330-D9F2377B90AE}|Lab2_Task.csproj|solutionrelative:helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enrollments.cs",
+              "DocumentMoniker": "D:\\study\\2024-CS-59\\2nd semester\\Week 1\\PD\\Lab2_Task\\Enrollments.cs",
+              "RelativeDocumentMoniker": "Enrollments.cs",
+              "ToolTip": "D:\\study\\2024-CS-59\\2nd semester\\Week 1\\PD\\Lab2_Task\\Enrollments.cs",
+              "RelativeToolTip": "Enrollments.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowB4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T11:40:26.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "D:\\study\\2024-CS-59\\2nd semester\\Week 1\\PD\\Lab2_Task\\Attendance.cs",
+              "RelativeDocumentMoniker": "Attendance.cs",
+              "ToolTip": "D:\\study\\2024-CS-59\\2nd semester\\Week 1\\PD\\Lab2_Task\\Attendance.cs",
+              "RelativeToolTip": "Attendance.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T11:20:36.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\study\\2024-CS-59\\2nd semester\\Week 1\\PD\\Lab2_Task\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\study\\2024-CS-59\\2nd semester\\Week 1\\PD\\Lab2_Task\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAAAJAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T10:22:29.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Courses.cs",
+              "DocumentMoniker": "D:\\study\\2024-CS-59\\2nd semester\\Week 1\\PD\\Lab2_Task\\Courses.cs",
+              "RelativeDocumentMoniker": "Courses.cs",
+              "ToolTip": "D:\\study\\2024-CS-59\\2nd semester\\Week 1\\PD\\Lab2_Task\\Courses.cs",
+              "RelativeToolTip": "Courses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T17:04:38.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\study\\2024-CS-59\\2nd semester\\Week 1\\PD\\Lab2_Task\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "D:\\study\\2024-CS-59\\2nd semester\\Week 1\\PD\\Lab2_Task\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwBIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T10:25:54.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "D:\\study\\2024-CS-59\\2nd semester\\Week 1\\PD\\Lab2_Task\\Helper.cs",
+              "RelativeDocumentMoniker": "Helper.cs",
+              "ToolTip": "D:\\study\\2024-CS-59\\2nd semester\\Week 1\\PD\\Lab2_Task\\Helper.cs",
+              "RelativeToolTip": "Helper.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAIwDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T10:23:56.868Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

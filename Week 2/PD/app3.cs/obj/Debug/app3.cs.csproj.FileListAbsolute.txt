@@ -1,0 +1,7 @@
+D:\study\2024-CS-59\2nd semester\Week2\PD\app3.cs\bin\Debug\app3.cs.exe.config
+D:\study\2024-CS-59\2nd semester\Week2\PD\app3.cs\bin\Debug\app3.cs.exe
+D:\study\2024-CS-59\2nd semester\Week2\PD\app3.cs\bin\Debug\app3.cs.pdb
+D:\study\2024-CS-59\2nd semester\Week2\PD\app3.cs\obj\Debug\app3.cs.csproj.AssemblyReference.cache
+D:\study\2024-CS-59\2nd semester\Week2\PD\app3.cs\obj\Debug\app3.cs.csproj.CoreCompileInputs.cache
+D:\study\2024-CS-59\2nd semester\Week2\PD\app3.cs\obj\Debug\app3.cs.exe
+D:\study\2024-CS-59\2nd semester\Week2\PD\app3.cs\obj\Debug\app3.cs.pdb

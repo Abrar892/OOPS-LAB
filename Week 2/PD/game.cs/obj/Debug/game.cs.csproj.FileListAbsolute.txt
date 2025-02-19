@@ -1,0 +1,10 @@
+D:\study\2024-CS-59\2nd semester\Week2\PD\game.cs\bin\Debug\game.cs.exe.config
+D:\study\2024-CS-59\2nd semester\Week2\PD\game.cs\bin\Debug\game.cs.exe
+D:\study\2024-CS-59\2nd semester\Week2\PD\game.cs\bin\Debug\game.cs.pdb
+D:\study\2024-CS-59\2nd semester\Week2\PD\game.cs\obj\Debug\game.cs.csproj.AssemblyReference.cache
+D:\study\2024-CS-59\2nd semester\Week2\PD\game.cs\obj\Debug\game.cs.csproj.CoreCompileInputs.cache
+D:\study\2024-CS-59\2nd semester\Week2\PD\game.cs\obj\Debug\game.cs.exe
+D:\study\2024-CS-59\2nd semester\Week2\PD\game.cs\obj\Debug\game.cs.pdb
+D:\study\2024-CS-59\2nd semester\Week2\PD\game.cs\bin\Debug\EZInput.dll
+D:\study\2024-CS-59\2nd semester\Week2\PD\game.cs\bin\Debug\EZInput.xml
+D:\study\2024-CS-59\2nd semester\Week2\PD\game.cs\obj\Debug\game.cs.csproj.Up2Date

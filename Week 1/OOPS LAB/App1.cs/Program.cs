@@ -21,7 +21,7 @@ namespace App1.cs
         static void Main(string[] args)
         {
             LoadUserData();
-           const string namemanager = "Abrar";
+            const string namemanager = "Abrar";
             const string passwordmanager = "1234567";
             header();
             string menuOption = mainMenu();
@@ -34,7 +34,7 @@ namespace App1.cs
                         header();
                         string name, password, role;
                         Console.Write("   Enter your name: ");
-                        name=Console.ReadLine();
+                        name = Console.ReadLine();
                         Console.Write("   Enter your password: ");
                         password = Console.ReadLine();
                         Console.Write("   Enter your role (Guest or Manager): ");
@@ -96,6 +96,7 @@ namespace App1.cs
         }
         static string mainMenu()
         {
+            Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("   1. Login");
             Console.WriteLine("   2. Sign up");
             Console.WriteLine("   3. Exit");
@@ -105,14 +106,15 @@ namespace App1.cs
             string option = Console.ReadLine();
             return option;
         }
-       static void header()
+        static void header()
         {
+            Console.ForegroundColor = ConsoleColor.Yellow;
             Console.Clear();
             Console.WriteLine("   ================================================================================");
             Console.WriteLine("     ___ ___ _______ _______ _______ ___         ___ ___ _______ _______ _______   ");
             Console.WriteLine("    |   Y   |   _   |       |   _   |   |       |   Y   |   _   |       |   _   |  ");
-            Console.WriteLine("    |.  1   |.  |   |.|   | |.  1___|.  |       |.      |.  1   |.|   | |.  1___|  ") ;
-            Console.WriteLine("    |.  _   |.  |   `-|.  |-|.  __)_|.  |___    |. \\_/  |.  _   `-|.  |-|.  __)_  ") ;
+            Console.WriteLine("    |.  1   |.  |   |.|   | |.  1___|.  |       |.      |.  1   |.|   | |.  1___|  ");
+            Console.WriteLine("    |.  _   |.  |   `-|.  |-|.  __)_|.  |___    |. \\_/  |.  _   `-|.  |-|.  __)_  ");
             Console.WriteLine("    |:  |   |:  1   | |:  | |:  1   |:  1   |   |:  |   |:  |   | |:  | |:  1   |  ");
             Console.WriteLine("    |::.|:. |::.. . | |::.| |::.. . |::.. . |   |::.|:. |::.|:. | |::.| |::.. . |  ");
             Console.WriteLine("    `--- ---`-------' `---' `-------`-------'   `--- ---`--- ---' `---' `-------'  ");
@@ -128,7 +130,7 @@ namespace App1.cs
             }
             return valid;
         }
-       static bool isValidUsername(string username)
+        static bool isValidUsername(string username)
         {
             if (username.Length < 3 || username.Length > 15)
             {
@@ -143,23 +145,25 @@ namespace App1.cs
             }
             return true;
         }
-       static bool isValidPassword(string password)
+        static bool isValidPassword(string password)
         {
             return password.Length >= 6;
         }
-       static bool isValidRole(string role)
+        static bool isValidRole(string role)
         {
             return role == "Guest" || role == "Manager";
         }
-       static string login(string name, string password)
+        static string login(string name, string password)
         {
             if (!isValidUsername(name))
             {
+                Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("    Invalid username! Please try again.");
                 return "";
             }
             if (!isValidPassword(password))
             {
+                Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("    Invalid password! Please try again.");
                 return "";
             }
@@ -176,16 +180,19 @@ namespace App1.cs
         {
             if (!isValidUsername(name))
             {
+                Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("    Invalid username! It must be 3-15 characters long and contain no numbers.");
                 return false;
             }
             if (!isValidPassword(password))
             {
+                Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("    Invalid password! It must be at least 6 characters long.");
                 return false;
             }
             if (!isValidRole(role))
             {
+                Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("    Invalid role! It must be either 'Guest' or 'Manager'.");
                 return false;
             }
@@ -193,6 +200,7 @@ namespace App1.cs
             {
                 if (usernames[index] == name)
                 {
+                    Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("    User already exists!");
                     return false;
                 }
@@ -208,7 +216,7 @@ namespace App1.cs
             Console.WriteLine("   User limit reached. Cannot add more users.");
             return false;
         }
-       static void clearscreen()
+        static void clearscreen()
         {
             Console.ReadKey();
             header();

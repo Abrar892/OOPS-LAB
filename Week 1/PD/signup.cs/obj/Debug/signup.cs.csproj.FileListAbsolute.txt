@@ -1,0 +1,7 @@
+D:\study\2024-CS-59\2nd semester\Week 1\PD\signup.cs\bin\Debug\signup.cs.exe.config
+D:\study\2024-CS-59\2nd semester\Week 1\PD\signup.cs\bin\Debug\signup.cs.exe
+D:\study\2024-CS-59\2nd semester\Week 1\PD\signup.cs\bin\Debug\signup.cs.pdb
+D:\study\2024-CS-59\2nd semester\Week 1\PD\signup.cs\obj\Debug\signup.cs.csproj.AssemblyReference.cache
+D:\study\2024-CS-59\2nd semester\Week 1\PD\signup.cs\obj\Debug\signup.cs.csproj.CoreCompileInputs.cache
+D:\study\2024-CS-59\2nd semester\Week 1\PD\signup.cs\obj\Debug\signup.cs.exe
+D:\study\2024-CS-59\2nd semester\Week 1\PD\signup.cs\obj\Debug\signup.cs.pdb

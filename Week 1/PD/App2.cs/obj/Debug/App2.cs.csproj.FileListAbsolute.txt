@@ -1,0 +1,2 @@
+D:\study\2024-CS-59\2nd semester\Week 1\PD\App2.cs\obj\Debug\App2.cs.csproj.AssemblyReference.cache
+D:\study\2024-CS-59\2nd semester\Week 1\PD\App2.cs\obj\Debug\App2.cs.csproj.CoreCompileInputs.cache
